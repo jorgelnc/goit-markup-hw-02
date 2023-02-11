@@ -64,7 +64,7 @@ text-decoration: none;
 }
 
 .service-button[value="Solicitar un Servicio"]:hover, .service-button[value="Solicitar un Servicio"]:focus {
-    background-color: rgba(8, 69, 252, 0.916);
+    background-color: rgba(132, 161, 249, 0.837);
 }
 
 [type="button"] {
