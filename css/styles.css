@@ -152,6 +152,10 @@ line-height: 1.8;
     font-family: inherit;
     font-size: 18px;
 }
-.current:active {
-    color: var(--color-active);
+.current {
+    color: var(--color-main);
+}
+.current-button {
+    background-color: var(--color-main);
+    color: var(--color-text-light);
 }
